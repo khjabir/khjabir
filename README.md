@@ -1,10 +1,10 @@
-<a href="https://jabir.live">
+<a href="https://jabir.vercel.app">
   <img src="assets/banner.jpg" alt="Illustrated portrait of Jabir K H, with the words: Hi there, I’m Jabir K H. Programmer by profession. Hodophile, cinephile, gourmand and shutterbug by passion." width="100%">
 </a>
 
 I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for phones, and I like making a device do things you would expect to need a server for: opening building models, finding your face in a folder of photos, counting your reps through the camera, turning a webcam into a band. Away from the keyboard I’m usually on the road, watching a film, hunting down something good to eat, or taking photos.
 
-**Portfolio:** [jabir.live](https://jabir.live)<br>
+**Portfolio:** [jabir](https://jabir.vercel.app)<br>
 **Email:** [khjabir@gmail.com](mailto:khjabir@gmail.com)
 
 ## What I’m building
@@ -65,6 +65,6 @@ I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for p
 
 ## On GitHub since 2014
 
-11,142 contributions across this account and the ones I have used at work. Most of what I wrote between 2015 and 2019 lived in private Bitbucket repositories, so those years look quiet here. [Every year, day by day](https://jabir.live/projects#github), is on my portfolio.
+11,142 contributions across this account and the ones I have used at work. Most of what I wrote between 2015 and 2019 lived in private Bitbucket repositories, so those years look quiet here. [Every year, day by day](https://jabir.vercel.app/projects#github), is on my portfolio.
 
 Before the projects above came [create-next-typescript-app](https://github.com/khjabir/create-next-typescript-app) (a TypeScript starter for Next.js, from before `create-next-app` had one), [ui-antd-wrapper](https://github.com/khjabir/ui-antd-wrapper) and [leaflet-wrapper](https://github.com/khjabir/leaflet-wrapper) (component libraries published to npm), a [face recognition](https://github.com/khjabir/face_recognition) project in Python, and the Angular, Node.js and React Native apps I learned on. [All of them](https://jabir.live/projects) are on my portfolio too.
