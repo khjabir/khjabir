@@ -1,10 +1,10 @@
-<a href="https://jabir.vercel.app">
+<a href="https://jabir.live">
   <img src="assets/banner.jpg" alt="Illustrated portrait of Jabir K H, with the words: Hi there, I’m Jabir K H. Programmer by profession. Hodophile, cinephile, gourmand and shutterbug by passion." width="100%">
 </a>
 
-I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for phones, and I like making a device do things you would expect to need a server for: opening building models, finding your face in a folder of photos, counting your reps through the camera, turning a webcam into a band. Away from the keyboard I’m usually on the road, watching a film, hunting down something good to eat, or taking photos.
+I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for phones, and I like making a device do things you would expect to need a server for: opening building models, finding your face in a folder of photos, counting your reps through the camera, turning a webcam into a band or a microphone into a game controller. Away from the keyboard I’m usually on the road, watching a film, hunting down something good to eat, or taking photos.
 
-**Portfolio:** [jabir](https://jabir.vercel.app)<br>
+**Portfolio:** [jabir.live](https://jabir.live)<br>
 **Email:** [khjabir@gmail.com](mailto:khjabir@gmail.com)
 
 ## What I’m building
@@ -16,6 +16,14 @@ I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for p
       <h3><a href="https://github.com/khjabir/levelex">Levelex</a></h3>
       <p>An AI workout coach for Android and iOS. Prop your phone up and the camera counts your reps, times your holds and corrects your form while a voice coach talks you through the set. A personal trainer builds sessions around the equipment you own, and every rep earns XP. It all runs on the phone: no account, no cloud, and camera frames never leave the device.</p>
       <sub>Flutter, Dart, Google ML Kit, TensorFlow Lite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/khjabir/yellfie"><img src="assets/yellfie.jpg" alt="Yellfie: party games you play with your voice, your face and your body. The lobby, Flappy Holler and Roar-o-Meter screens" width="100%"></a>
+      <h3><a href="https://github.com/khjabir/yellfie">Yellfie</a></h3>
+      <p>Party games you play with your voice, your face and your body. Seventeen short games for a group around one laptop or TV: shout to fly a bird, hum to steer a rocket, pull faces to match emoji and slice fruit with a fingertip, with a party leaderboard after every round. No server, no account: the tracking runs in the browser.</p>
+      <sub>JavaScript, MediaPipe, Web Audio API, Canvas</sub>
     </td>
   </tr>
   <tr>
@@ -65,6 +73,6 @@ I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for p
 
 ## On GitHub since 2014
 
-11,142 contributions across this account and the ones I have used at work. Most of what I wrote between 2015 and 2019 lived in private Bitbucket repositories, so those years look quiet here. [Every year, day by day](https://jabir.vercel.app/projects#github), is on my portfolio.
+11,142 contributions across this account and the ones I have used at work. Most of what I wrote between 2015 and 2019 lived in private Bitbucket repositories, so those years look quiet here. [Every year, day by day](https://jabir.live/projects#github), is on my portfolio.
 
-Before the projects above came [create-next-typescript-app](https://github.com/khjabir/create-next-typescript-app) (a TypeScript starter for Next.js, from before `create-next-app` had one), [ui-antd-wrapper](https://github.com/khjabir/ui-antd-wrapper) and [leaflet-wrapper](https://github.com/khjabir/leaflet-wrapper) (component libraries published to npm), a [face recognition](https://github.com/khjabir/face_recognition) project in Python, and the Angular, Node.js and React Native apps I learned on. [All of them](https://jabir.vercel.app/projects) are on my portfolio too.
+Before the projects above came [create-next-typescript-app](https://github.com/khjabir/create-next-typescript-app) (a TypeScript starter for Next.js, from before `create-next-app` had one), [ui-antd-wrapper](https://github.com/khjabir/ui-antd-wrapper) and [leaflet-wrapper](https://github.com/khjabir/leaflet-wrapper) (component libraries published to npm), a [face recognition](https://github.com/khjabir/face_recognition) project in Python, and the Angular, Node.js and React Native apps I learned on. [All of them](https://jabir.live/projects) are on my portfolio too.
