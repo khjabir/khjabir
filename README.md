@@ -2,7 +2,7 @@
   <img src="assets/banner.jpg" alt="Illustrated portrait of Jabir K H, with the words: Hi there, I’m Jabir K H. Programmer by profession. Hodophile, cinephile, gourmand and shutterbug by passion." width="100%">
 </a>
 
-I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for phones, and I like making a device do things you would expect to need a server for: opening building models, finding your face in a folder of photos, counting your reps through the camera, turning a webcam into a band or a microphone into a game controller. Away from the keyboard I’m usually on the road, watching a film, hunting down something good to eat, or taking photos.
+I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for phones, and I like making a device do things you would expect to need a server for: opening building models, finding your face in a folder of photos, counting your reps through the camera, checking your fingerspelling, turning a webcam into a band or a microphone into a game controller. Away from the keyboard I’m usually on the road, watching a film, hunting down something good to eat, or taking photos.
 
 **Portfolio:** [jabir.live](https://jabir.live)<br>
 **Email:** [khjabir@gmail.com](mailto:khjabir@gmail.com)
@@ -19,10 +19,16 @@ I’m Jabir, a programmer based in Dubai. I build for the web and, lately, for p
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <a href="https://github.com/khjabir/yellfie"><img src="assets/yellfie.jpg" alt="Yellfie: party games you play with your voice, your face and your body. The lobby, Flappy Holler and Roar-o-Meter screens" width="100%"></a>
+    <td width="50%" valign="top">
+      <a href="https://handspell.vercel.app"><img src="assets/handspell.jpg" alt="Handspell: learn to fingerspell with your webcam, with the Learn, Practice and ISL screens" width="100%"></a>
+      <h3><a href="https://github.com/khjabir/handspell">Handspell</a></h3>
+      <p>Learn to fingerspell in American or Indian Sign Language. A hand shows each letter, your webcam checks your handshape as you sign, and it says what to change. The camera picture never leaves your device. <a href="https://handspell.vercel.app"><b>Try it</b></a></p>
+      <sub>JavaScript, MediaPipe, Canvas, Web Speech API</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/khjabir/yellfie"><img src="assets/yellfie.jpg" alt="Yellfie: party games you play with your voice, your face and your body" width="100%"></a>
       <h3><a href="https://github.com/khjabir/yellfie">Yellfie</a></h3>
-      <p>Party games you play with your voice, your face and your body. Seventeen short games for a group around one laptop or TV: shout to fly a bird, hum to steer a rocket, pull faces to match emoji and slice fruit with a fingertip, with a party leaderboard after every round. No server, no account: the tracking runs in the browser.</p>
+      <p>Party games you play with your voice, your face and your body. Seventeen short games for a group around one laptop or TV, with a leaderboard after every round. No server, no account: the tracking runs in the browser.</p>
       <sub>JavaScript, MediaPipe, Web Audio API, Canvas</sub>
     </td>
   </tr>
